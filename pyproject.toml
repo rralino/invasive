@@ -1,7 +1,8 @@
 [tool.poetry]
 name = "streamlit-test"
-version = "1.234"
+version = "0.1.0"
 description = ""
+authors = ["kermit the frog"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
