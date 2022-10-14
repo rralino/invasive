@@ -3,4 +3,3 @@
 2, 'Hylarana erythraea'
 3, 'Kaloula pulchra'
 4, 'Rhinella marina'
-5, 'Endemic'
