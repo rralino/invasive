@@ -4,7 +4,7 @@ import streamlit as st
 import torch
 from torchvision import transforms
 
-MODEL_PATH = 'frogs.pth'
+MODEL_PATH = 'm2.pth'
 LABELS_PATH = 'frogs.txt'
 
 
